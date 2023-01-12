@@ -1,2 +1,2 @@
-# instagram_clone
-For learning HTML, CSS
+## 인스타그램 클론코딩
+HTML과 CSS를 익히기 위한 클론코딩!
